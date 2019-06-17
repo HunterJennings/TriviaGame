@@ -1,0 +1,10 @@
+#body {
+    background-color: blanchedalmond;
+    align-self: auto;
+}
+#countDown {
+    font-size: 28px;
+}
+#triviaList {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
